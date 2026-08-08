@@ -35,7 +35,7 @@ order trends, and the relationship between sales and profit.
 
 ## 📊 Dashboard
 
-[Dashboard Screenshot]
+<img width="1550" height="852" alt="Image" src="https://github.com/user-attachments/assets/751ff181-a748-4279-a9c8-39da03d777d8" />
 
 ## 📈 Key Visualizations
 
